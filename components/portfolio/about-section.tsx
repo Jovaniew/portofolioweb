@@ -5,12 +5,13 @@ export function AboutSection() {
     <Card className="bg-card">
       <CardContent className="pt-6 leading-relaxed">
         <p className="text-pretty">
-          I’m a frontend developer passionate about crafting accessible, performant, and delightful web experiences. I
-          enjoy working with modern React, TypeScript, and design systems to ship real value with clean, maintainable
-          code.
+          Hi! I’m a Computer Science student specializing in UI/UX Design, passionate about turning logic into intuitive 
+          and meaningful digital experiences. I love exploring how people interact with technology — combining research, 
+          visual storytelling, and communication skills to design interfaces that not only work, but feel right.
         </p>
         <p className="mt-3 text-pretty">
-          Outside of work, I love learning, building small side projects, and sharing knowledge with the community.
+          Outside of design, I enjoy learning foreign languages,
+          currently pursuing my interest in Chinese to better understand culture and communication from different perspectives.
         </p>
       </CardContent>
     </Card>
