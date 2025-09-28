@@ -52,7 +52,7 @@ export default function PortfolioPage() {
 
       <footer className="border-t border-border bg-card">
         <div className="mx-auto max-w-3xl px-6 py-6 text-sm text-muted-foreground flex items-center justify-between">
-          <p>&copy; {new Date().getFullYear()} Your Name</p>
+          <p>&copy; {new Date().getFullYear()} Jovanie Wijaya</p>
           <a href="#" className="hover:text-primary">
             Back to top
           </a>
