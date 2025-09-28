@@ -12,8 +12,8 @@ export function ProfileHeader() {
           <AvatarFallback>YN</AvatarFallback>
         </Avatar>
         <div>
-          <h1 className="text-pretty text-2xl md:text-3xl font-bold">Your Name</h1>
-          <p className="text-muted-foreground">Your Role or Title</p>
+          <h1 className="text-pretty text-2xl md:text-3xl font-bold">Jovanie Wijaya</h1>
+          <p className="text-muted-foreground">Bina Nusantara Computer Science Student</p>
         </div>
       </div>
 
