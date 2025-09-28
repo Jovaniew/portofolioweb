@@ -2,9 +2,9 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 
 const skills = {
-  Languages: ["TypeScript", "JavaScript", "HTML", "CSS"],
-  Frameworks: ["React", "Next.js", "Tailwind CSS"],
-  Tools: ["Git", "ESLint", "Prettier", "Playwright"],
+  Design Tools: ["Figma", "Canva"],
+  Languages: ["Basic HTML/CSS"],
+  Soft Skills: ["PR & Content", "Leadership", "Problem Solving", "Research Thinking"],
 }
 
 export function SkillsSection() {
