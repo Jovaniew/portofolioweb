@@ -9,11 +9,11 @@ export function ContactSection() {
             <dt className="text-muted-foreground">Email</dt>
             <dd>
               <a
-                href="mailto:you@example.com"
+                href="mailto:jovaniewijaya23@gmail.com"
                 className="text-primary underline-offset-4 hover:underline"
-                aria-label="Send email to you@example.com"
+                aria-label="Send email to jovaniewijaya23@gmail.com"
               >
-                you@example.com
+                jovaniewijaya23@gmail.com
               </a>
             </dd>
           </div>
@@ -21,13 +21,13 @@ export function ContactSection() {
             <dt className="text-muted-foreground">Phone</dt>
             <dd>
               <a href="tel:+10000000000" className="text-foreground" aria-label="Call phone number">
-                +1 (000) 000-0000
+                +62 812-8144-3480
               </a>
             </dd>
           </div>
           <div className="flex items-center justify-between">
             <dt className="text-muted-foreground">Location</dt>
-            <dd className="text-foreground">Your City, Country</dd>
+            <dd className="text-foreground">Jakarta, Indonesia</dd>
           </div>
         </dl>
       </CardContent>
